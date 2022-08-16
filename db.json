@@ -15,24 +15,6 @@
       "description": "It would help people with light sensitivities and who prefer dark mode.",
       "comments": [
         {
-          "user": {
-            "name": "someone",
-            "username": "someone",
-            "image": "https:/picsum.photos/50/50"
-          },
-          "id": 22,
-          "content": "werfwerfwe"
-        },
-        {
-          "user": {
-            "name": "someone",
-            "username": "someone",
-            "image": "https:/picsum.photos/50/50"
-          },
-          "id": 20,
-          "content": "sdsfsdfd"
-        },
-        {
           "id": 3,
           "content": "Also, please allow styles to be applied based on system preferences. I would love to be able to browse Frontend Mentor in the evening after my device’s dark mode turns on without the bright background it currently has.",
           "user": {
@@ -98,89 +80,7 @@
       "isUpvoted": true,
       "status": "Suggestion",
       "description": "Challenge-specific Q&A would make for easy reference.",
-      "comments": [
-        {
-          "user": {
-            "name": "someone",
-            "username": "someone",
-            "image": "https:/picsum.photos/50/50"
-          },
-          "id": 3,
-          "content": "sdfsdfsd"
-        },
-        {
-          "user": {
-            "name": "someone",
-            "username": "someone",
-            "image": "https:/picsum.photos/50/50"
-          },
-          "id": 21,
-          "content": "adsdasda"
-        },
-        {
-          "user": {
-            "name": "someone",
-            "username": "someone",
-            "image": "https:/picsum.photos/50/50"
-          },
-          "id": 20,
-          "content": "adasdad"
-        },
-        {
-          "user": {
-            "name": "someone",
-            "username": "someone",
-            "image": "https:/picsum.photos/50/50"
-          },
-          "id": 19,
-          "content": "weqewe"
-        },
-        {
-          "user": {
-            "name": "someone",
-            "username": "someone",
-            "image": "https:/picsum.photos/50/50"
-          },
-          "id": 18,
-          "content": "weqewe"
-        },
-        {
-          "user": {
-            "name": "someone",
-            "username": "someone",
-            "image": "https:/picsum.photos/50/50"
-          },
-          "id": 17,
-          "content": "weqewe"
-        },
-        {
-          "user": {
-            "name": "someone",
-            "username": "someone",
-            "image": "https:/picsum.photos/50/50"
-          },
-          "id": 16,
-          "content": "weqewe"
-        },
-        {
-          "id": 1,
-          "content": "Awesome idea! Trying to find framework-specific projects within the hubs can be tedious",
-          "user": {
-            "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-suzanne.jpg",
-            "name": "Suzanne Chang",
-            "username": "upbeat1811"
-          }
-        },
-        {
-          "id": 2,
-          "content": "Please use fun, color-coded labels to easily identify them at a glance",
-          "user": {
-            "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-thomas.jpg",
-            "name": "Thomas Hood",
-            "username": "brawnybrave"
-          }
-        }
-      ]
+      "comments": []
     },
     {
       "id": 5,
@@ -313,15 +213,6 @@
       "description": "Sequenced projects for different goals to help people improve.",
       "comments": [
         {
-          "user": {
-            "name": "someone",
-            "username": "someone",
-            "image": "https:/picsum.photos/50/50"
-          },
-          "id": 8,
-          "content": ""
-        },
-        {
           "id": 3,
           "content": "Also, please allow styles to be applied based on system preferences. I would love to be able to browse Frontend Mentor in the evening after my device’s dark mode turns on without the bright background it currently has.",
           "user": {
@@ -449,24 +340,6 @@
       "description": "Small animations at specific points can add delight.",
       "comments": [
         {
-          "user": {
-            "name": "someone",
-            "username": "someone",
-            "image": "https:/picsum.photos/50/50"
-          },
-          "id": 20,
-          "content": "asgsklgkldf\n"
-        },
-        {
-          "user": {
-            "name": "someone",
-            "username": "someone",
-            "image": "https:/picsum.photos/50/50"
-          },
-          "id": 19,
-          "content": "ergwer"
-        },
-        {
           "id": 15,
           "content": "I'd love to see this! It always makes me so happy to see little details like these on websites.",
           "user": {
@@ -517,66 +390,6 @@
       "status": "suggestion",
       "description": "Voluptatem neque tem",
       "comments": []
-    },
-    {
-      "id": "2022-06-18T05:33:34.493Z",
-      "title": "Quasi tempor volupta",
-      "category": "UI",
-      "upvotes": 2,
-      "isUpvoted": false,
-      "status": "suggestion",
-      "description": "Cupidatat nihil sint",
-      "comments": [
-        {
-          "user": {
-            "name": "someone",
-            "username": "someone",
-            "image": "https:/picsum.photos/50/50"
-          },
-          "id": 18,
-          "content": ""
-        }
-      ]
-    },
-    {
-      "id": "2022-06-18T05:35:56.263Z",
-      "title": "Consequuntur beatae ",
-      "category": "UI",
-      "upvotes": 3,
-      "isUpvoted": false,
-      "status": "suggestion",
-      "description": "Amet quisquam saepe",
-      "comments": []
-    },
-    {
-      "id": "2022-06-18T05:36:35.942Z",
-      "title": "In labore porro cons",
-      "category": "UI",
-      "upvotes": 2,
-      "isUpvoted": false,
-      "status": "suggestion",
-      "description": "Minim earum dolor al",
-      "comments": []
-    },
-    {
-      "id": "2022-06-18T05:37:34.365Z",
-      "title": "Earum natus in quia ",
-      "category": "UI",
-      "upvotes": 2,
-      "isUpvoted": false,
-      "status": "suggestion",
-      "description": "Nam et quia exercita",
-      "comments": [
-        {
-          "user": {
-            "name": "someone",
-            "username": "someone",
-            "image": "https:/picsum.photos/50/50"
-          },
-          "id": 18,
-          "content": "zxvzcv"
-        }
-      ]
     }
   ],
   "suggestionFilter": [
